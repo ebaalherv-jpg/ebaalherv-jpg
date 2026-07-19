@@ -11,6 +11,7 @@ I turn raw data into clear, actionable insights — from cleaning messy datasets
 
 - 📊 Data Analyst focused on **SQL, Python, and Tableau**
 - 🎓 Google Data Analytics certified — *Introduction to Data Analysis Using Python* (Coursera, 2026)
+- 🎓 Background in research methodology and logic (2 years teaching at Universidad de La Habana) — brings a structured, hypothesis-driven approach to data analysis
 - 🚀 Building a portfolio of end-to-end analysis projects: data cleaning → exploration → visualization
 - 🌱 Currently sharpening advanced SQL skills (window functions, query optimization)
 - 💬 Open to Data Analyst opportunities — let's connect!
@@ -43,7 +44,7 @@ Applied advanced SQL techniques (`RANK`, `LAG`, `PARTITION BY`) to analyze sales
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+-- www.linkedin.com/in/emilio-b-alfonso-hernández-1ab3903a1
 
 ---
 
