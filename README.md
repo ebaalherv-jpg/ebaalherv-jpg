@@ -43,8 +43,7 @@ Applied advanced SQL techniques (`RANK`, `LAG`, `PARTITION BY`) to analyze sales
 ---
 
 ### 📫 Connect with Me
-
--- www.linkedin.com/in/emilio-b-alfonso-hernández-1ab3903a1
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-b-alfonso-hernández-1ab3903a1)
 
 ---
 
